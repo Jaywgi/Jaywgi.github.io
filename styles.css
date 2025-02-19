@@ -5,6 +5,13 @@ body {
     background-color: #f4f4f4;
 }
 
+header {
+    background-color: #333;
+    color: white;
+    padding: 1em;
+    text-align: center;
+}
+
 nav {
     background-color: #333;
     color: white;
@@ -14,6 +21,7 @@ nav {
 nav ul {
     list-style: none;
     padding: 0;
+    text-align: center;
 }
 
 nav ul li {
@@ -22,7 +30,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: Light-blue;
+    color: white;
     text-decoration: none;
 }
 
